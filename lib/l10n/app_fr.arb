@@ -1,0 +1,9 @@
+{
+    "title": "Démo de localisation",
+    "info": "Entrez vos informations ci-dessous",
+    "name": "Entrez votre nom",
+    "name_hint": "Nom",
+    "date_hint": "Date",
+     "message": "Laissez votre message",
+     "message_hint": "Message"
+}
